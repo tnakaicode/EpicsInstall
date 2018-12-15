@@ -1,0 +1,4 @@
+OS-class: Linux
+Target-arch: linux-x86_64
+Tests: dbScanTest.t dbShutdownTest.t dbPutLinkTest.t dbLockTest.t dbStressTest.t testdbConvert.t callbackTest.t callbackParallelTest.t dbStateTest.t dbServerTest.t dbCaStatsTest.t dbCaLinkTest.t scanIoTest.t dbChannelTest.t dbChArrTest.t chfPluginTest.t arrShorthandTest.t recGblCheckDeadbandTest.t testPutGetTest.t dbStaticTest.t
+Files: ../O.Common/dbTestIoc.dbd ../xRecord.db ../dbPutLinkTest.db ../dbPutLinkTestJ.db ../dbBadLink.db ../dbLockTest.db ../dbStressLock.db ../dbCaStats.db ../dbCaLinkTest1.db ../dbCaLinkTest2.db ../dbCaLinkTest3.db ../scanIoTest.db ../O.Common/dbChArrTest.dbd ../dbChArrTest.db ../dbPutGetTest.db ../dbStaticTest.db

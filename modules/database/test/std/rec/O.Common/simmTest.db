@@ -1,0 +1,249 @@
+# Regular simulation mode and simm:SCAN tests
+record(ai, "ai") {
+  field(SSCN,"Event")
+}
+record(ai, "ai:simval") {
+}
+record(bo, "ai:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(ao, "ao") {
+  field(SSCN,"Event")
+}
+record(ao, "ao:simval") {
+}
+record(bo, "ao:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(bi, "bi") {
+  field(SSCN,"Event")
+}
+record(bi, "bi:simval") {
+}
+record(bo, "bi:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(bo, "bo") {
+  field(SSCN,"Event")
+}
+record(bo, "bo:simval") {
+}
+record(bo, "bo:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(mbbi, "mbbi") {
+  field(SSCN,"Event")
+}
+record(mbbi, "mbbi:simval") {
+}
+record(bo, "mbbi:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(mbbo, "mbbo") {
+  field(SSCN,"Event")
+}
+record(mbbo, "mbbo:simval") {
+}
+record(bo, "mbbo:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(mbbiDirect, "mbbiDirect") {
+  field(SSCN,"Event")
+}
+record(mbbiDirect, "mbbiDirect:simval") {
+}
+record(bo, "mbbiDirect:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(mbboDirect, "mbboDirect") {
+  field(SSCN,"Event")
+}
+record(mbboDirect, "mbboDirect:simval") {
+}
+record(bo, "mbboDirect:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(longin, "longin") {
+  field(SSCN,"Event")
+}
+record(longin, "longin:simval") {
+}
+record(bo, "longin:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(longout, "longout") {
+  field(SSCN,"Event")
+}
+record(longout, "longout:simval") {
+}
+record(bo, "longout:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(int64in, "int64in") {
+  field(SSCN,"Event")
+}
+record(int64in, "int64in:simval") {
+}
+record(bo, "int64in:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(int64out, "int64out") {
+  field(SSCN,"Event")
+}
+record(int64out, "int64out:simval") {
+}
+record(bo, "int64out:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(stringin, "stringin") {
+  field(SSCN,"Event")
+}
+record(stringin, "stringin:simval") {
+}
+record(bo, "stringin:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(stringout, "stringout") {
+  field(SSCN,"Event")
+}
+record(stringout, "stringout:simval") {
+}
+record(bo, "stringout:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(lsi, "lsi") {
+  field(SSCN,"Event")
+}
+record(lsi, "lsi:simval") {
+}
+record(bo, "lsi:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(lso, "lso") {
+  field(SSCN,"Event")
+}
+record(lso, "lso:simval") {
+}
+record(bo, "lso:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Regular simulation mode and simm:SCAN tests
+record(event, "event") {
+  field(SSCN,"Event")
+}
+record(event, "event:simval") {
+}
+record(bo, "event:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Array type records
+# Regular simulation mode and simm:SCAN tests
+record(aai, "aai") {
+  field(SSCN,"Event")
+  field(FTVL,"SHORT")
+  field(NELM,"2")
+}
+record(aai, "aai:simval") {
+  field(FTVL,"SHORT")
+  field(NELM,"2")
+}
+record(bo, "aai:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Array type records
+# Regular simulation mode and simm:SCAN tests
+record(aao, "aao") {
+  field(SSCN,"Event")
+  field(FTVL,"SHORT")
+  field(NELM,"2")
+}
+record(aao, "aao:simval") {
+  field(FTVL,"SHORT")
+  field(NELM,"2")
+}
+record(bo, "aao:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Array type records
+# Regular simulation mode and simm:SCAN tests
+record(waveform, "waveform") {
+  field(SSCN,"Event")
+  field(FTVL,"SHORT")
+  field(NELM,"2")
+}
+record(waveform, "waveform:simval") {
+  field(FTVL,"SHORT")
+  field(NELM,"2")
+}
+record(bo, "waveform:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# Array type records
+# Regular simulation mode and simm:SCAN tests
+record(histogram, "histogram") {
+  field(SSCN,"Event")
+  field(NELM,"2")
+}
+record(ai, "histogram:simval") {
+}
+record(bo, "histogram:simmode") {
+  field(ZNAM,"off")
+  field(ONAM,"on")
+}
+# no info
+record(ai, "ai-0") {
+}
+# only scan
+record(ai, "ai-1") {
+  field(SSCN,"2 second")
+}
+# only delay
+record(ai, "ai-2") {
+  field(SDLY,".234")
+}
+# scan and delay
+record(ai, "ai-3") {
+  field(SSCN,"5 second")
+  field(SDLY,".345")
+}
+# siml target doesn't exist
+record(ao, "ao-0") {
+  field(SIML, "non-exist")
+  field(HIGH, "1.5")
+  field(HSV,  "MINOR")
+}

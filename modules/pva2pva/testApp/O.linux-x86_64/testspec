@@ -1,0 +1,3 @@
+OS-class: Linux
+Target-arch: linux-x86_64
+Tests: testweak.t testtest.t testpvif.t testpdb.t testpvalink.t testgroupconfig.t testdbf_copy.t
