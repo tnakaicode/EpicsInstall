@@ -1,0 +1,53 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMessageQueue.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsPrint.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsMath.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/alarm.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/menuPriority.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbChannel.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbStaticLib.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAccessDefs.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbScan.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbLock.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbUnitTest.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbCommon.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/recSup.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/devSup.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/iocInit.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/callback.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/ellLib.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsUnitTest.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/testMain.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osiFileName.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsExport.h
+scanIoTest.obj : ../devx.h
+scanIoTest.obj : ../O.Common/xRecord.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMessageQueue.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errlog.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbDefs.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAddr.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/db_field_log.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbEvent.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbFldTypes.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbBase.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/link.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/cantProceed.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/menuScan.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsThread.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+scanIoTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdThread.h
+
+

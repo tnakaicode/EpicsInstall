@@ -1,0 +1,52 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serverContext.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsExit.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/testMain.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsUnitTest.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaDefs.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/beaconServerStatusProvider.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaConstants.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersion.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvAccess.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/configuration.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersionNum.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/destroyable.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/monitor.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/envDefs.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/requester.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+testServerContext.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

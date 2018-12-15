@@ -1,0 +1,49 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbDefs.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsPrint.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsString.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/alarm.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/callback.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAccess.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbEvent.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbFldTypes.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbScan.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/devSup.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/recSup.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/recGbl.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/special.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/cantProceed.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/menuYesNo.h
+aaoRecord.obj : ../O.Common/aaoRecord.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsExport.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errlog.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/caeventmask.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/link.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbBase.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAddr.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbLock.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAccessDefs.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbLink.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbCa.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbCommon.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/db_field_log.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsThread.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/menuScan.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/ellLib.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdThread.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+aaoRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+
+

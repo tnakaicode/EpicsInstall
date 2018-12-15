@@ -1,0 +1,49 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbDefs.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errlog.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsMath.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/alarm.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/callback.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/cvtTable.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAccess.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbScan.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbEvent.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbFldTypes.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/devSup.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/menuSimm.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/recSup.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/recGbl.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/special.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/menuConvert.h
+aiRecord.obj : ../O.Common/aiRecord.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsExport.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/caeventmask.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/link.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbBase.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAddr.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbLock.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAccessDefs.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbLink.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbCa.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbCommon.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/db_field_log.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/menuScan.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsThread.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/ellLib.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdThread.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+aiRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+
+

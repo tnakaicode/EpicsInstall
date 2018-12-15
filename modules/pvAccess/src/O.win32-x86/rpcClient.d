@@ -1,0 +1,49 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/event.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/current_function.h
+rpcClient.obj : ../../src/client/pv/pvAccess.h
+rpcClient.obj : ../../src/pva/pv/clientFactory.h
+rpcClient.obj : ../../src/utils/pv/logger.h
+rpcClient.obj : ../../src/rpcService/pv/rpcService.h
+rpcClient.obj : ../../src/rpcClient/pv/rpcClient.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+rpcClient.obj : ../../src/pva/pv/pvaVersion.h
+rpcClient.obj : ../../src/utils/pv/destroyable.h
+rpcClient.obj : ../../src/client/pv/monitor.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/valueBuilder.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+rpcClient.obj : ../O.Common/pv/pvaVersionNum.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+rpcClient.obj : ../../src/utils/pv/requester.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+rpcClient.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

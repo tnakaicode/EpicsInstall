@@ -1,0 +1,52 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+pvDatabase.obj : ../pv/pvDatabase.h
+pvDatabase.obj : ../../src/copy/pv/pvStructureCopy.h
+pvDatabase.obj : ../../src/copy/pv/pvPlugin.h
+pvDatabase.obj : ../../src/copy/pv/pvArrayPlugin.h
+pvDatabase.obj : ../../src/copy/pv/pvTimestampPlugin.h
+pvDatabase.obj : ../../src/copy/pv/pvDeadbandPlugin.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvTimeStamp.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/rpcService.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/timeStamp.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvAccess.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersion.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/destroyable.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/monitor.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersionNum.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/requester.h
+pvDatabase.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

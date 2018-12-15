@@ -1,0 +1,54 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/current_function.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/reftrack.h
+clientMonitor.obj : ../../src/utils/pv/logger.h
+clientMonitor.obj : ../../src/client/clientpvt.h
+clientMonitor.obj : ../../src/client/pv/pvAccess.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAtomic.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsThread.h
+clientMonitor.obj : ../../src/client/pva/client.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+clientMonitor.obj : ../../src/pva/pv/pvaVersion.h
+clientMonitor.obj : ../../src/utils/pv/destroyable.h
+clientMonitor.obj : ../../src/client/pv/monitor.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/epicsAtomicCD.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdThread.h
+clientMonitor.obj : ../O.Common/pv/pvaVersionNum.h
+clientMonitor.obj : ../../src/utils/pv/requester.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsAtomicMS.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAtomicDefault.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsAtomicOSD.h
+clientMonitor.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

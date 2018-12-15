@@ -1,0 +1,3 @@
+OS-class: WIN32
+Target-arch: win32-x86
+Tests: testThread.t testEvent.t testTimer.t testBitSet.t testOverrunBitSet.t testByteBuffer.t testBaseException.t testSharedVector.t testDebugPtr.t testSerialization.t testTimeStamp.t testTypeCast.t testUnitTest.t testjson.t test_reftrack.t testanyscalar.t testprinter.t testBitSetUtil.t testIntrospect.t testPVType.t testStandardField.t testStandardPVField.t testPVData.t testPVUnion.t testConvert.t testPVScalarArray.t testPVStructureArray.t testOperators.t testFieldBuilder.t testValueBuilder.t testProperty.t testCreateRequest.t testPVCopy.t

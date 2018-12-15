@@ -1,0 +1,53 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serverContext.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pva/server.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pva/sharedstate.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaDefs.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/beaconServerStatusProvider.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaConstants.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersion.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvAccess.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/configuration.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersionNum.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/destroyable.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/monitor.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/envDefs.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/requester.h
+epicschat.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

@@ -1,0 +1,55 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsString.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbUnitTest.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsThread.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/iocInit.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbBase.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbDefs.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/link.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAccess.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/registry.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbStaticLib.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbStaticPvt.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osiFileName.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbmf.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errlog.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAtomic.h
+dbPutLinkTest.obj : ../O.Common/xRecord.h
+dbPutLinkTest.obj : ../jlinkz.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/testMain.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsUnitTest.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAddr.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbCommon.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdThread.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbFldTypes.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/ellLib.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/recSup.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/caeventmask.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbLock.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAccessDefs.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbLink.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbCa.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/db_field_log.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/cantProceed.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/epicsAtomicCD.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsExport.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbJLink.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsAtomicMS.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAtomicDefault.h
+dbPutLinkTest.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsAtomicOSD.h
+
+

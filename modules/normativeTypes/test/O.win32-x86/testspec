@@ -1,0 +1,3 @@
+OS-class: WIN32
+Target-arch: win32-x86
+Tests: ntfieldTest.t ntscalarTest.t ntscalarArrayTest.t ntnameValueTest.t ntmultiChannelTest.t ntscalarMultiChannelTest.t nttableTest.t ntndarrayTest.t ntmatrixTest.t ntenumTest.t ntunionTest.t ntaggregateTest.t ntattributeTest.t ntndarrayAttributeTest.t ntcontinuumTest.t nthistogramTest.t ntutilsTest.t

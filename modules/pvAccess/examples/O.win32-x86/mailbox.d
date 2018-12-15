@@ -1,0 +1,53 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serverContext.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pva/server.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pva/sharedstate.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaDefs.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/beaconServerStatusProvider.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaConstants.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersion.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvAccess.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/configuration.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersionNum.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/destroyable.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/monitor.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/envDefs.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/requester.h
+mailbox.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

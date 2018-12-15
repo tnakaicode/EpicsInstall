@@ -1,0 +1,54 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/current_function.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/reftrack.h
+clientGet.obj : ../../src/utils/pv/logger.h
+clientGet.obj : ../../src/client/clientpvt.h
+clientGet.obj : ../../src/client/pv/pvAccess.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAtomic.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsThread.h
+clientGet.obj : ../../src/client/pva/client.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+clientGet.obj : ../../src/pva/pv/pvaVersion.h
+clientGet.obj : ../../src/utils/pv/destroyable.h
+clientGet.obj : ../../src/client/pv/monitor.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/epicsAtomicCD.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdThread.h
+clientGet.obj : ../O.Common/pv/pvaVersionNum.h
+clientGet.obj : ../../src/utils/pv/requester.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsAtomicMS.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAtomicDefault.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsAtomicOSD.h
+clientGet.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

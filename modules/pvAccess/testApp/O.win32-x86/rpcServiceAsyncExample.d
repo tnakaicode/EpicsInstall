@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/rpcServer.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvAccess.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/rpcService.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serverContext.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersion.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/destroyable.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/monitor.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaDefs.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/beaconServerStatusProvider.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaConstants.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/configuration.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersionNum.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/requester.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/envDefs.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+rpcServiceAsyncExample.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

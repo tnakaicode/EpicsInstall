@@ -1,0 +1,3 @@
+OS-class: WIN32
+Target-arch: win32-x86
+Tests: testAtomicBoolean.t testHexDump.t testInetAddressUtils.t configurationTest.t testFairQueue.t testWildcard.t testChannelAccess.t testCodec.t testRPC.t testServerContext.t testmonitorfifo.t testsharedstate.t

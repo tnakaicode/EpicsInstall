@@ -1,0 +1,52 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsStdlib.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsGetopt.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pva/client.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/json.h
+pvcall.obj : ../pvutils.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdStrtod.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/yajl_parse.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/event.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvAccess.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/yajl_common.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersion.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/destroyable.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/monitor.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersionNum.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/requester.h
+pvcall.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

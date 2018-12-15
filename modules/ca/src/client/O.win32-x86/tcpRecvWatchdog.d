@@ -1,0 +1,55 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+tcpRecvWatchdog.obj : ../iocinf.h
+tcpRecvWatchdog.obj : ../cac.h
+tcpRecvWatchdog.obj : ../virtualCircuit.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/ipAddrToAsciiAsynchronous.h
+tcpRecvWatchdog.obj : ../msgForMultiplyDefinedPV.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTimer.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/freeList.h
+tcpRecvWatchdog.obj : ../localHostName.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+tcpRecvWatchdog.obj : ../nciu.h
+tcpRecvWatchdog.obj : ../comBuf.h
+tcpRecvWatchdog.obj : ../bhe.h
+tcpRecvWatchdog.obj : ../cacIO.h
+tcpRecvWatchdog.obj : ../netIO.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/tsDLList.h
+tcpRecvWatchdog.obj : ../caServerID.h
+tcpRecvWatchdog.obj : ../netiiu.h
+tcpRecvWatchdog.obj : ../comQueSend.h
+tcpRecvWatchdog.obj : ../comQueRecv.h
+tcpRecvWatchdog.obj : ../tcpRecvWatchdog.h
+tcpRecvWatchdog.obj : ../tcpSendWatchdog.h
+tcpRecvWatchdog.obj : ../hostNameCache.h
+tcpRecvWatchdog.obj : ../SearchDest.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/osiSock.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/tsFreeList.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsThread.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsSingleton.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/resourceLib.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+tcpRecvWatchdog.obj : ../caProto.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/osiWireFormat.h
+tcpRecvWatchdog.obj : ../inetAddrID.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdSock.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/ellLib.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdThread.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/tsSLList.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsString.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireFormat.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+tcpRecvWatchdog.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

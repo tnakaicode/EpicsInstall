@@ -1,0 +1,53 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/reftrack.h
+clientRPC.obj : ../../src/utils/pv/logger.h
+clientRPC.obj : ../../src/client/clientpvt.h
+clientRPC.obj : ../../src/client/pv/pvAccess.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAtomic.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsThread.h
+clientRPC.obj : ../../src/client/pva/client.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+clientRPC.obj : ../../src/pva/pv/pvaVersion.h
+clientRPC.obj : ../../src/utils/pv/destroyable.h
+clientRPC.obj : ../../src/client/pv/monitor.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/epicsAtomicCD.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdThread.h
+clientRPC.obj : ../O.Common/pv/pvaVersionNum.h
+clientRPC.obj : ../../src/utils/pv/requester.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsAtomicMS.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAtomicDefault.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsAtomicOSD.h
+clientRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

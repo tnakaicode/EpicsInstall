@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/alarm.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/cantProceed.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbDefs.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsExit.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsPrint.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsString.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsThread.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAtomic.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errlog.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/taskwd.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/cadef.h
+dbCa.obj : ../../../src/ioc/db/db_access_routines.h
+dbCa.obj : ../../../src/ioc/db/dbCa.h
+dbCa.obj : ../../../src/ioc/db/dbCaPvt.h
+dbCa.obj : ../O.Common/dbCommon.h
+dbCa.obj : ../../../src/ioc/db/db_convert.h
+dbCa.obj : ../../../src/ioc/db/dbLink.h
+dbCa.obj : ../../../src/ioc/db/dbLock.h
+dbCa.obj : ../../../src/ioc/db/dbScan.h
+dbCa.obj : ../../../src/ioc/dbStatic/link.h
+dbCa.obj : ../../../src/ioc/db/recGbl.h
+dbCa.obj : ../../../src/ioc/dbStatic/recSup.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdThread.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/epicsAtomicCD.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/caerr.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/db_access.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/caeventmask.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/ellLib.h
+dbCa.obj : ../../../src/ioc/db/dbAddr.h
+dbCa.obj : ../O.Common/menuScan.h
+dbCa.obj : ../../../src/ioc/dbStatic/devSup.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsAtomicMS.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAtomicDefault.h
+dbCa.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsAtomicOSD.h
+
+

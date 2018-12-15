@@ -1,0 +1,49 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbDefs.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsPrint.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsString.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/alarm.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/callback.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAccess.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbEvent.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbFldTypes.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbScan.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/devSup.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/recSup.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/recGbl.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/special.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/cantProceed.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/menuYesNo.h
+waveformRecord.obj : ../O.Common/waveformRecord.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsExport.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errlog.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/caeventmask.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/link.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbBase.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAddr.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbLock.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAccessDefs.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbLink.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbCa.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbCommon.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/db_field_log.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsThread.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/menuScan.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/ellLib.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdThread.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+waveformRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+
+

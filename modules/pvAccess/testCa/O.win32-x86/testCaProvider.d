@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsUnitTest.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/testMain.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/envDefs.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/thread.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvAccess.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/convert.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/caProvider.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/requester.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/event.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsThread.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersion.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/destroyable.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/monitor.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdThread.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersionNum.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+testCaProvider.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

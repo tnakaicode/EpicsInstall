@@ -1,0 +1,53 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsGetopt.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/configuration.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/caProvider.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/reftrack.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pva/client.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/envDefs.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvAccess.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAtomic.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersion.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/destroyable.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/monitor.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/epicsAtomicCD.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersionNum.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/requester.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsAtomicMS.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAtomicDefault.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsAtomicOSD.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+getme.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

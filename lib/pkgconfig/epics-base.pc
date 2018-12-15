@@ -1,0 +1,29 @@
+# standard variables
+prefix=C:/Users/nakai/epics/base-7.0.2-rc1
+exec_prefix=${prefix}
+bindir=${prefix}/bin/win32-x86
+libdir=${prefix}/lib/win32-x86
+
+# non-standard variables
+
+# EPICS Base install location
+FINAL_LOCATION=${prefix}
+ARCH=win32-x86
+OS_CLASS=WIN32
+CMPLR_CLASS=msvc
+
+# Directories
+
+includedir_osi=${prefix}/include
+includedir_osd=${prefix}/include/os/WIN32
+includedir_comp=${prefix}/include/compiler/msvc
+
+includedirs=${includedir_osi} ${includedir_osd} ${includedir_comp}
+
+dbddir=${prefix}/dbd
+dbdir=${prefix}/db
+
+Name: epics-base
+Version: 7.0.2.0
+Description: EPICS Base for the host arch
+Requires: epics-base-win32-x86 = 7.0.2.0

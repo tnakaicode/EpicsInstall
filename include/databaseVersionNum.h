@@ -1,0 +1,7 @@
+#ifndef DATABASEVERSION_H
+#  error include databaseVersion.h, not this header
+#endif
+#define EPICS_DATABASE_MAJOR_VERSION 3
+#define EPICS_DATABASE_MINOR_VERSION 17
+#define EPICS_DATABASE_MAINTENANCE_VERSION 0
+#define EPICS_DATABASE_DEVELOPMENT_FLAG 1

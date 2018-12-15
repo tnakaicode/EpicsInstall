@@ -1,0 +1,50 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/logger.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvTimeStamp.h
+pvutils.obj : ../pvutils.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/timeStamp.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/event.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvAccess.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersion.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/destroyable.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/monitor.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersionNum.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/requester.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+pvutils.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

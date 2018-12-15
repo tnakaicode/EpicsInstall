@@ -1,0 +1,56 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/epicsException.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/valueBuilder.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/clientFactory.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/rpcClient.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/rpcServer.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/rpcService.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsUnitTest.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/testMain.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/templateMeta.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvIntrospect.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedVector.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvData.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/sharedPtr.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvAccess.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serverContext.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/status.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/lock.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/noDefaultMethods.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvType.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/byteBuffer.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/serialize.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersion.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/typeCast.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/anyscalar.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/createRequest.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/bitSet.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersion.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/destroyable.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/monitor.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaDefs.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/beaconServerStatusProvider.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaConstants.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/configuration.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEndian.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsVersion.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvdVersionNum.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsConvert.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/pvaVersionNum.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/pv/requester.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/envDefs.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+testRPC.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdWireConfig.h
+
+

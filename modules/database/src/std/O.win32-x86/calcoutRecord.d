@@ -1,0 +1,50 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/alarm.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbDefs.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAccess.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbEvent.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbLink.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbScan.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/cantProceed.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/epicsMath.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errlog.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/recSup.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/devSup.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/recGbl.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/special.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/callback.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/taskwd.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/menuIvoa.h
+calcoutRecord.obj : ../O.Common/calcoutRecord.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsExport.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/caeventmask.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbFldTypes.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/link.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbBase.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAddr.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbLock.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbAccessDefs.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbCa.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbCommon.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/db_field_log.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsThread.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/menuScan.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/ellLib.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/postfix.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdThread.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+calcoutRecord.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+
+

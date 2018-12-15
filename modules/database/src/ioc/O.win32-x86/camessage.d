@@ -1,0 +1,49 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsEvent.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsMutex.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsStdio.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsString.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsThread.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTime.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errlog.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/freeList.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/osiPoolStatus.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/osiSock.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/caerr.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/net_convert.h
+camessage.obj : ../../../src/ioc/as/asDbLib.h
+camessage.obj : ../../../src/ioc/db/callback.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/db_access.h
+camessage.obj : ../../../src/ioc/db/db_access_routines.h
+camessage.obj : ../../../src/ioc/db/dbChannel.h
+camessage.obj : ../O.Common/dbCommon.h
+camessage.obj : ../../../src/ioc/db/dbEvent.h
+camessage.obj : ../../../src/ioc/db/db_field_log.h
+camessage.obj : ../../../src/ioc/db/dbNotify.h
+camessage.obj : ../../../src/ioc/rsrv/rsrv.h
+camessage.obj : ../../../src/ioc/rsrv/server.h
+camessage.obj : ../../../src/ioc/dbStatic/special.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/shareLib.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdEvent.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsAssert.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compilerDependencies.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsGuard.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdMutex.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTempFile.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/epicsTypes.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdThread.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdTime.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/errMdef.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdPoolStatus.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/os/WIN32/osdSock.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/ellLib.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/dbDefs.h
+camessage.obj : ../../../src/ioc/db/dbAddr.h
+camessage.obj : ../../../src/ioc/dbStatic/link.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/bucketLib.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/asLib.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/caProto.h
+camessage.obj : C:/Users/nakai/epics/base-7.0.2-rc1/include/compiler/msvc/compilerSpecific.h
+
+
