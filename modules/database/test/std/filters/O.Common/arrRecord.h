@@ -10,13 +10,6 @@
 #include "epicsTime.h"
 
 typedef enum {
-    menuPriorityLOW                 /* LOW */,
-    menuPriorityMEDIUM              /* MEDIUM */,
-    menuPriorityHIGH                /* HIGH */
-} menuPriority;
-#define menuPriority_NUM_CHOICES 3
-
-typedef enum {
     menuScanPassive                 /* Passive */,
     menuScanEvent                   /* Event */,
     menuScanI_O_Intr                /* I/O Intr */,
@@ -31,11 +24,30 @@ typedef enum {
 #define menuScan_NUM_CHOICES 10
 
 typedef enum {
-    menuIvoaContinue_normally       /* Continue normally */,
-    menuIvoaDon_t_drive_outputs     /* Don't drive outputs */,
-    menuIvoaSet_output_to_IVOV      /* Set output to IVOV */
-} menuIvoa;
-#define menuIvoa_NUM_CHOICES 3
+    menuPost_OnChange               /* On Change */,
+    menuPost_Always                 /* Always */
+} menuPost;
+#define menuPost_NUM_CHOICES 2
+
+typedef enum {
+    menuOmslsupervisory             /* supervisory */,
+    menuOmslclosed_loop             /* closed_loop */
+} menuOmsl;
+#define menuOmsl_NUM_CHOICES 2
+
+typedef enum {
+    menuSimmNO                      /* NO */,
+    menuSimmYES                     /* YES */,
+    menuSimmRAW                     /* RAW */
+} menuSimm;
+#define menuSimm_NUM_CHOICES 3
+
+typedef enum {
+    menuPriorityLOW                 /* LOW */,
+    menuPriorityMEDIUM              /* MEDIUM */,
+    menuPriorityHIGH                /* HIGH */
+} menuPriority;
+#define menuPriority_NUM_CHOICES 3
 
 typedef enum {
     menuAlarmStatNO_ALARM           /* NO_ALARM */,
@@ -64,28 +76,6 @@ typedef enum {
 #define menuAlarmStat_NUM_CHOICES 22
 
 typedef enum {
-    menuFtypeSTRING                 /* STRING */,
-    menuFtypeCHAR                   /* CHAR */,
-    menuFtypeUCHAR                  /* UCHAR */,
-    menuFtypeSHORT                  /* SHORT */,
-    menuFtypeUSHORT                 /* USHORT */,
-    menuFtypeLONG                   /* LONG */,
-    menuFtypeULONG                  /* ULONG */,
-    menuFtypeINT64                  /* INT64 */,
-    menuFtypeUINT64                 /* UINT64 */,
-    menuFtypeFLOAT                  /* FLOAT */,
-    menuFtypeDOUBLE                 /* DOUBLE */,
-    menuFtypeENUM                   /* ENUM */
-} menuFtype;
-#define menuFtype_NUM_CHOICES 12
-
-typedef enum {
-    menuPost_OnChange               /* On Change */,
-    menuPost_Always                 /* Always */
-} menuPost;
-#define menuPost_NUM_CHOICES 2
-
-typedef enum {
     menuConvertNO_CONVERSION        /* NO CONVERSION */,
     menuConvertSLOPE                /* SLOPE */,
     menuConvertLINEAR               /* LINEAR */,
@@ -105,10 +95,20 @@ typedef enum {
 #define menuConvert_NUM_CHOICES 15
 
 typedef enum {
-    menuOmslsupervisory             /* supervisory */,
-    menuOmslclosed_loop             /* closed_loop */
-} menuOmsl;
-#define menuOmsl_NUM_CHOICES 2
+    menuFtypeSTRING                 /* STRING */,
+    menuFtypeCHAR                   /* CHAR */,
+    menuFtypeUCHAR                  /* UCHAR */,
+    menuFtypeSHORT                  /* SHORT */,
+    menuFtypeUSHORT                 /* USHORT */,
+    menuFtypeLONG                   /* LONG */,
+    menuFtypeULONG                  /* ULONG */,
+    menuFtypeINT64                  /* INT64 */,
+    menuFtypeUINT64                 /* UINT64 */,
+    menuFtypeFLOAT                  /* FLOAT */,
+    menuFtypeDOUBLE                 /* DOUBLE */,
+    menuFtypeENUM                   /* ENUM */
+} menuFtype;
+#define menuFtype_NUM_CHOICES 12
 
 typedef enum {
     menuYesNoNO                     /* NO */,
@@ -117,11 +117,11 @@ typedef enum {
 #define menuYesNo_NUM_CHOICES 2
 
 typedef enum {
-    menuSimmNO                      /* NO */,
-    menuSimmYES                     /* YES */,
-    menuSimmRAW                     /* RAW */
-} menuSimm;
-#define menuSimm_NUM_CHOICES 3
+    menuIvoaContinue_normally       /* Continue normally */,
+    menuIvoaDon_t_drive_outputs     /* Don't drive outputs */,
+    menuIvoaSet_output_to_IVOV      /* Set output to IVOV */
+} menuIvoa;
+#define menuIvoa_NUM_CHOICES 3
 
 typedef enum {
     menuAlarmSevrNO_ALARM           /* NO_ALARM */,

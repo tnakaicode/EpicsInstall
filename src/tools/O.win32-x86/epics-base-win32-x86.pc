@@ -12,7 +12,7 @@ ARCH=win32-x86
 OS_CLASS=WIN32
 CMPLR_CLASS=msvc
 
-EPICS_BASE_IOC_LIBS=
+EPICS_BASE_IOC_LIBS=dbRecStd dbCore ca Com
 
 # Directories
 

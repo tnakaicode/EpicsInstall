@@ -11,17 +11,17 @@
 struct aSubRecord;
 
 typedef enum {
-    aSubLFLG_IGNORE                 /* IGNORE */,
-    aSubLFLG_READ                   /* READ */
-} aSubLFLG;
-#define aSubLFLG_NUM_CHOICES 2
-
-typedef enum {
     aSubEFLG_NEVER                  /* NEVER */,
     aSubEFLG_ON_CHANGE              /* ON CHANGE */,
     aSubEFLG_ALWAYS                 /* ALWAYS */
 } aSubEFLG;
 #define aSubEFLG_NUM_CHOICES 3
+
+typedef enum {
+    aSubLFLG_IGNORE                 /* IGNORE */,
+    aSubLFLG_READ                   /* READ */
+} aSubLFLG;
+#define aSubLFLG_NUM_CHOICES 2
 
 typedef struct aSubRecord {
     char                name[61];   /* Record Name */
