@@ -1,0 +1,54 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pva/client.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/caProvider.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsStdlib.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/epicsGetopt.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsThread.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/logger.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/lock.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/event.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsExit.h
+pvinfo.obj : ../pvutils.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvData.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/bitSet.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvAccess.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdStrtod.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEvent.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdThread.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/noDefaultMethods.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvType.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedPtr.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvIntrospect.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/typeCast.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/anyscalar.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedVector.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/serialize.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/createRequest.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/status.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaVersion.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/destroyable.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/monitor.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdEvent.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/byteBuffer.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersion.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsConvert.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/templateMeta.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaVersionNum.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/requester.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEndian.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/epicsException.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsVersion.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersionNum.h
+pvinfo.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdWireConfig.h
+
+

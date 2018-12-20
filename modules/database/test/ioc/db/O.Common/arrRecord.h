@@ -10,30 +10,32 @@
 #include "epicsTime.h"
 
 typedef enum {
-    menuPost_OnChange               /* On Change */,
-    menuPost_Always                 /* Always */
-} menuPost;
-#define menuPost_NUM_CHOICES 2
-
-typedef enum {
-    menuYesNoNO                     /* NO */,
-    menuYesNoYES                    /* YES */
-} menuYesNo;
-#define menuYesNo_NUM_CHOICES 2
-
-typedef enum {
-    menuIvoaContinue_normally       /* Continue normally */,
-    menuIvoaDon_t_drive_outputs     /* Don't drive outputs */,
-    menuIvoaSet_output_to_IVOV      /* Set output to IVOV */
-} menuIvoa;
-#define menuIvoa_NUM_CHOICES 3
-
-typedef enum {
     menuSimmNO                      /* NO */,
     menuSimmYES                     /* YES */,
     menuSimmRAW                     /* RAW */
 } menuSimm;
 #define menuSimm_NUM_CHOICES 3
+
+typedef enum {
+    menuPriorityLOW                 /* LOW */,
+    menuPriorityMEDIUM              /* MEDIUM */,
+    menuPriorityHIGH                /* HIGH */
+} menuPriority;
+#define menuPriority_NUM_CHOICES 3
+
+typedef enum {
+    menuAlarmSevrNO_ALARM           /* NO_ALARM */,
+    menuAlarmSevrMINOR              /* MINOR */,
+    menuAlarmSevrMAJOR              /* MAJOR */,
+    menuAlarmSevrINVALID            /* INVALID */
+} menuAlarmSevr;
+#define menuAlarmSevr_NUM_CHOICES 4
+
+typedef enum {
+    menuOmslsupervisory             /* supervisory */,
+    menuOmslclosed_loop             /* closed_loop */
+} menuOmsl;
+#define menuOmsl_NUM_CHOICES 2
 
 typedef enum {
     menuAlarmStatNO_ALARM           /* NO_ALARM */,
@@ -62,6 +64,12 @@ typedef enum {
 #define menuAlarmStat_NUM_CHOICES 22
 
 typedef enum {
+    menuYesNoNO                     /* NO */,
+    menuYesNoYES                    /* YES */
+} menuYesNo;
+#define menuYesNo_NUM_CHOICES 2
+
+typedef enum {
     menuFtypeSTRING                 /* STRING */,
     menuFtypeCHAR                   /* CHAR */,
     menuFtypeUCHAR                  /* UCHAR */,
@@ -78,18 +86,20 @@ typedef enum {
 #define menuFtype_NUM_CHOICES 12
 
 typedef enum {
-    menuAlarmSevrNO_ALARM           /* NO_ALARM */,
-    menuAlarmSevrMINOR              /* MINOR */,
-    menuAlarmSevrMAJOR              /* MAJOR */,
-    menuAlarmSevrINVALID            /* INVALID */
-} menuAlarmSevr;
-#define menuAlarmSevr_NUM_CHOICES 4
+    menuPost_OnChange               /* On Change */,
+    menuPost_Always                 /* Always */
+} menuPost;
+#define menuPost_NUM_CHOICES 2
 
 typedef enum {
-    menuOmslsupervisory             /* supervisory */,
-    menuOmslclosed_loop             /* closed_loop */
-} menuOmsl;
-#define menuOmsl_NUM_CHOICES 2
+    menuPiniNO                      /* NO */,
+    menuPiniYES                     /* YES */,
+    menuPiniRUN                     /* RUN */,
+    menuPiniRUNNING                 /* RUNNING */,
+    menuPiniPAUSE                   /* PAUSE */,
+    menuPiniPAUSED                  /* PAUSED */
+} menuPini;
+#define menuPini_NUM_CHOICES 6
 
 typedef enum {
     menuScanPassive                 /* Passive */,
@@ -106,14 +116,11 @@ typedef enum {
 #define menuScan_NUM_CHOICES 10
 
 typedef enum {
-    menuPiniNO                      /* NO */,
-    menuPiniYES                     /* YES */,
-    menuPiniRUN                     /* RUN */,
-    menuPiniRUNNING                 /* RUNNING */,
-    menuPiniPAUSE                   /* PAUSE */,
-    menuPiniPAUSED                  /* PAUSED */
-} menuPini;
-#define menuPini_NUM_CHOICES 6
+    menuIvoaContinue_normally       /* Continue normally */,
+    menuIvoaDon_t_drive_outputs     /* Don't drive outputs */,
+    menuIvoaSet_output_to_IVOV      /* Set output to IVOV */
+} menuIvoa;
+#define menuIvoa_NUM_CHOICES 3
 
 typedef enum {
     menuConvertNO_CONVERSION        /* NO CONVERSION */,
@@ -133,13 +140,6 @@ typedef enum {
     menuConverttypeSdegC            /* typeSdegC */
 } menuConvert;
 #define menuConvert_NUM_CHOICES 15
-
-typedef enum {
-    menuPriorityLOW                 /* LOW */,
-    menuPriorityMEDIUM              /* MEDIUM */,
-    menuPriorityHIGH                /* HIGH */
-} menuPriority;
-#define menuPriority_NUM_CHOICES 3
 
 typedef struct arrRecord {
     char                name[61];   /* Record Name */

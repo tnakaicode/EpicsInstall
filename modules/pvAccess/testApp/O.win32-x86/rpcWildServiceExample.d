@@ -1,0 +1,51 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvData.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/rpcServer.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvIntrospect.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/typeCast.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/anyscalar.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedVector.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedPtr.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvAccess.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/rpcService.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/serverContext.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/lock.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/noDefaultMethods.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvType.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/byteBuffer.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/serialize.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersion.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsConvert.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/templateMeta.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/createRequest.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/status.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/bitSet.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaVersion.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/destroyable.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/monitor.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaDefs.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/beaconServerStatusProvider.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaConstants.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/configuration.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEndian.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/epicsException.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsVersion.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersionNum.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaVersionNum.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/requester.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/envDefs.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+rpcWildServiceExample.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdWireConfig.h
+
+

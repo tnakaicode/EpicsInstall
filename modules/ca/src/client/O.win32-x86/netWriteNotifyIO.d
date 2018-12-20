@@ -1,0 +1,56 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errlog.h
+netWriteNotifyIO.obj : ../iocinf.h
+netWriteNotifyIO.obj : ../nciu.h
+netWriteNotifyIO.obj : ../cac.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/resourceLib.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/tsDLList.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/tsFreeList.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+netWriteNotifyIO.obj : ../caProto.h
+netWriteNotifyIO.obj : ../cacIO.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/ipAddrToAsciiAsynchronous.h
+netWriteNotifyIO.obj : ../msgForMultiplyDefinedPV.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTimer.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEvent.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/freeList.h
+netWriteNotifyIO.obj : ../localHostName.h
+netWriteNotifyIO.obj : ../comBuf.h
+netWriteNotifyIO.obj : ../bhe.h
+netWriteNotifyIO.obj : ../netIO.h
+netWriteNotifyIO.obj : ../virtualCircuit.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/tsSLList.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsString.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsThread.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/osiSock.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdEvent.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsSingleton.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/osiWireFormat.h
+netWriteNotifyIO.obj : ../inetAddrID.h
+netWriteNotifyIO.obj : ../caServerID.h
+netWriteNotifyIO.obj : ../netiiu.h
+netWriteNotifyIO.obj : ../comQueSend.h
+netWriteNotifyIO.obj : ../comQueRecv.h
+netWriteNotifyIO.obj : ../tcpRecvWatchdog.h
+netWriteNotifyIO.obj : ../tcpSendWatchdog.h
+netWriteNotifyIO.obj : ../hostNameCache.h
+netWriteNotifyIO.obj : ../SearchDest.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdThread.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdSock.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/ellLib.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdWireFormat.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEndian.h
+netWriteNotifyIO.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdWireConfig.h
+
+

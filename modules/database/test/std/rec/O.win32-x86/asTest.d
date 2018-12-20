@@ -1,0 +1,52 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsString.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbUnitTest.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsThread.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/iocInit.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbBase.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/link.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/recSup.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbAccess.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbConvert.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbStaticLib.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/registry.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbStaticPvt.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osiFileName.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/initHooks.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/devSup.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errlog.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/aoRecord.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/waveformRecord.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/testMain.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsExport.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsUnitTest.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbAddr.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbCommon.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEvent.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdThread.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbFldTypes.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/ellLib.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbDefs.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/caeventmask.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbLock.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbAccessDefs.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbLink.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbCa.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/db_field_log.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/cantProceed.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/callback.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdEvent.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+asTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+
+

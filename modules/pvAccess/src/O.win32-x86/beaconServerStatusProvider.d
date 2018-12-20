@@ -1,0 +1,49 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+beaconServerStatusProvider.obj : ../../src/server/pv/serverContext.h
+beaconServerStatusProvider.obj : ../../src/server/pv/beaconServerStatusProvider.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+beaconServerStatusProvider.obj : ../../src/pva/pv/pvaDefs.h
+beaconServerStatusProvider.obj : ../../src/pva/pv/pvaConstants.h
+beaconServerStatusProvider.obj : ../../src/pva/pv/pvaVersion.h
+beaconServerStatusProvider.obj : ../../src/client/pv/pvAccess.h
+beaconServerStatusProvider.obj : ../../src/utils/pv/configuration.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvData.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedPtr.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvType.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/noDefaultMethods.h
+beaconServerStatusProvider.obj : ../O.Common/pv/pvaVersionNum.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/createRequest.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/status.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/bitSet.h
+beaconServerStatusProvider.obj : ../../src/utils/pv/destroyable.h
+beaconServerStatusProvider.obj : ../../src/client/pv/monitor.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/lock.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/envDefs.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvIntrospect.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/typeCast.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/anyscalar.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedVector.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/serialize.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/byteBuffer.h
+beaconServerStatusProvider.obj : ../../src/utils/pv/requester.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersion.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsConvert.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/templateMeta.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEndian.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/epicsException.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsVersion.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersionNum.h
+beaconServerStatusProvider.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdWireConfig.h
+
+

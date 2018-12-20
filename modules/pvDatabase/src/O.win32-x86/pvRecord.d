@@ -1,0 +1,52 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsThread.h
+pvRecord.obj : ../pv/pvDatabase.h
+pvRecord.obj : ../../src/copy/pv/pvStructureCopy.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEvent.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdThread.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvData.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvTimeStamp.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/rpcService.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/bitSet.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdEvent.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvIntrospect.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/typeCast.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/anyscalar.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedVector.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvType.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/timeStamp.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedPtr.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/status.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvAccess.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/serialize.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/lock.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/noDefaultMethods.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/byteBuffer.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersion.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsConvert.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/templateMeta.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/createRequest.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaVersion.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/destroyable.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/monitor.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEndian.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/epicsException.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsVersion.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersionNum.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaVersionNum.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/requester.h
+pvRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdWireConfig.h
+
+

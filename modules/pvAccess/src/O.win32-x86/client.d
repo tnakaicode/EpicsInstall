@@ -1,0 +1,55 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEvent.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvData.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/bitSet.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/reftrack.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/epicsException.h
+client.obj : ../../src/utils/pv/logger.h
+client.obj : ../../src/client/clientpvt.h
+client.obj : ../../src/client/pv/pvAccess.h
+client.obj : ../../src/utils/pv/configuration.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdEvent.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvIntrospect.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/typeCast.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/anyscalar.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedVector.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvType.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/serialize.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedPtr.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsVersion.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAtomic.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsThread.h
+client.obj : ../../src/client/pva/client.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/createRequest.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/status.h
+client.obj : ../../src/pva/pv/pvaVersion.h
+client.obj : ../../src/utils/pv/destroyable.h
+client.obj : ../../src/client/pv/monitor.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/noDefaultMethods.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/lock.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/envDefs.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/byteBuffer.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersion.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsConvert.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/templateMeta.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/epicsAtomicCD.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdThread.h
+client.obj : ../O.Common/pv/pvaVersionNum.h
+client.obj : ../../src/utils/pv/requester.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEndian.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersionNum.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/epicsAtomicMS.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAtomicDefault.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/epicsAtomicOSD.h
+client.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdWireConfig.h
+
+

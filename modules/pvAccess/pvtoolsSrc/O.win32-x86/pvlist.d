@@ -1,0 +1,56 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsStdlib.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/epicsGetopt.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/logger.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsExit.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/osiSock.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/byteBuffer.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/serializeHelper.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaConstants.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/configuration.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/rpcClient.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdStrtod.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdSock.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/ellLib.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEndian.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/templateMeta.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvType.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/epicsException.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/serialize.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/noDefaultMethods.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvIntrospect.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/lock.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedPtr.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/envDefs.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvData.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/valueBuilder.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/rpcService.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdWireConfig.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersion.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/typeCast.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/anyscalar.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedVector.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/status.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvAccess.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsVersion.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersionNum.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsConvert.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/createRequest.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/bitSet.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaVersion.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/destroyable.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/monitor.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaVersionNum.h
+pvlist.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/requester.h
+
+

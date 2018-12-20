@@ -1,0 +1,56 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+traceRecord.obj : ../pv/traceRecord.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+traceRecord.obj : ../pv/channelProviderLocal.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/lock.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvType.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvData.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvAccess.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/status.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/serverContext.h
+traceRecord.obj : ../pv/pvDatabase.h
+traceRecord.obj : ../../src/copy/pv/pvStructureCopy.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/noDefaultMethods.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedPtr.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvIntrospect.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/typeCast.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/anyscalar.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedVector.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/createRequest.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/bitSet.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaVersion.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/destroyable.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/monitor.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/serialize.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/byteBuffer.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaDefs.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/beaconServerStatusProvider.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaConstants.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/configuration.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvTimeStamp.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/rpcService.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersion.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsConvert.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/templateMeta.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaVersionNum.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/requester.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEndian.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/epicsException.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/envDefs.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/timeStamp.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsVersion.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersionNum.h
+traceRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdWireConfig.h
+
+

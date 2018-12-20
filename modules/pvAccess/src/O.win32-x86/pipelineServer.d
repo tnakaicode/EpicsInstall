@@ -1,0 +1,52 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+pipelineServer.obj : ../../src/pipelineService/pv/pipelineServer.h
+pipelineServer.obj : ../../src/utils/pv/wildcard.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedPtr.h
+pipelineServer.obj : ../../src/client/pv/pvAccess.h
+pipelineServer.obj : ../../src/pipelineService/pv/pipelineService.h
+pipelineServer.obj : ../../src/server/pv/serverContext.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvData.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/createRequest.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/status.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/bitSet.h
+pipelineServer.obj : ../../src/pva/pv/pvaVersion.h
+pipelineServer.obj : ../../src/utils/pv/destroyable.h
+pipelineServer.obj : ../../src/client/pv/monitor.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+pipelineServer.obj : ../../src/pva/pv/pvaDefs.h
+pipelineServer.obj : ../../src/server/pv/beaconServerStatusProvider.h
+pipelineServer.obj : ../../src/pva/pv/pvaConstants.h
+pipelineServer.obj : ../../src/utils/pv/configuration.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvIntrospect.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/typeCast.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/anyscalar.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedVector.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/lock.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/serialize.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/byteBuffer.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvType.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/noDefaultMethods.h
+pipelineServer.obj : ../O.Common/pv/pvaVersionNum.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+pipelineServer.obj : ../../src/utils/pv/requester.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/envDefs.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersion.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsConvert.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/templateMeta.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEndian.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/epicsException.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsVersion.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersionNum.h
+pipelineServer.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdWireConfig.h
+
+

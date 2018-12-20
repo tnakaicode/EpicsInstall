@@ -1,0 +1,53 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEvent.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMessageQueue.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsPrint.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/epicsMath.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/alarm.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/menuPriority.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbChannel.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbStaticLib.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbAccessDefs.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbScan.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbLock.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbUnitTest.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbCommon.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/recSup.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/devSup.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/iocInit.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/callback.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/ellLib.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsUnitTest.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/testMain.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osiFileName.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsExport.h
+scanIoTest.obj : ../devx.h
+scanIoTest.obj : ../O.Common/xRecord.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdEvent.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMessageQueue.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errlog.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbDefs.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbAddr.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/db_field_log.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbEvent.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbFldTypes.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbBase.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/link.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/cantProceed.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/menuScan.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsThread.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+scanIoTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdThread.h
+
+

@@ -1,0 +1,49 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbDefs.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsPrint.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsString.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/alarm.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/callback.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbAccess.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbEvent.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbFldTypes.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbScan.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/devSup.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/recSup.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/recGbl.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/cantProceed.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/special.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/menuYesNo.h
+aaiRecord.obj : ../O.Common/aaiRecord.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsExport.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errlog.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/caeventmask.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/link.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbBase.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbAddr.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbLock.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbAccessDefs.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbLink.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbCa.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbCommon.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/db_field_log.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsThread.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/menuScan.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/ellLib.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEvent.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdThread.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+aaiRecord.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdEvent.h
+
+

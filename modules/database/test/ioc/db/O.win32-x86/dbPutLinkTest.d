@@ -1,0 +1,55 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsString.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbUnitTest.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsThread.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/iocInit.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbBase.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbDefs.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/link.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbAccess.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/registry.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbStaticLib.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbStaticPvt.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osiFileName.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbmf.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errlog.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAtomic.h
+dbPutLinkTest.obj : ../O.Common/xRecord.h
+dbPutLinkTest.obj : ../jlinkz.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/testMain.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsUnitTest.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbAddr.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbCommon.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEvent.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdThread.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbFldTypes.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/ellLib.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/recSup.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/caeventmask.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbLock.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbAccessDefs.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbLink.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbCa.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/db_field_log.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/cantProceed.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/epicsAtomicCD.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsExport.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbJLink.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdEvent.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/epicsAtomicMS.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAtomicDefault.h
+dbPutLinkTest.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/epicsAtomicOSD.h
+
+

@@ -10,11 +10,17 @@
 #include "epicsTime.h"
 
 typedef enum {
-    menuPriorityLOW                 /* LOW */,
-    menuPriorityMEDIUM              /* MEDIUM */,
-    menuPriorityHIGH                /* HIGH */
-} menuPriority;
-#define menuPriority_NUM_CHOICES 3
+    menuIvoaContinue_normally       /* Continue normally */,
+    menuIvoaDon_t_drive_outputs     /* Don't drive outputs */,
+    menuIvoaSet_output_to_IVOV      /* Set output to IVOV */
+} menuIvoa;
+#define menuIvoa_NUM_CHOICES 3
+
+typedef enum {
+    menuYesNoNO                     /* NO */,
+    menuYesNoYES                    /* YES */
+} menuYesNo;
+#define menuYesNo_NUM_CHOICES 2
 
 typedef enum {
     menuFtypeSTRING                 /* STRING */,
@@ -33,24 +39,14 @@ typedef enum {
 #define menuFtype_NUM_CHOICES 12
 
 typedef enum {
-    menuScanPassive                 /* Passive */,
-    menuScanEvent                   /* Event */,
-    menuScanI_O_Intr                /* I/O Intr */,
-    menuScan10_second               /* 10 second */,
-    menuScan5_second                /* 5 second */,
-    menuScan2_second                /* 2 second */,
-    menuScan1_second                /* 1 second */,
-    menuScan_5_second               /* .5 second */,
-    menuScan_2_second               /* .2 second */,
-    menuScan_1_second               /* .1 second */
-} menuScan;
-#define menuScan_NUM_CHOICES 10
-
-typedef enum {
-    menuOmslsupervisory             /* supervisory */,
-    menuOmslclosed_loop             /* closed_loop */
-} menuOmsl;
-#define menuOmsl_NUM_CHOICES 2
+    menuPiniNO                      /* NO */,
+    menuPiniYES                     /* YES */,
+    menuPiniRUN                     /* RUN */,
+    menuPiniRUNNING                 /* RUNNING */,
+    menuPiniPAUSE                   /* PAUSE */,
+    menuPiniPAUSED                  /* PAUSED */
+} menuPini;
+#define menuPini_NUM_CHOICES 6
 
 typedef enum {
     menuConvertNO_CONVERSION        /* NO CONVERSION */,
@@ -70,6 +66,40 @@ typedef enum {
     menuConverttypeSdegC            /* typeSdegC */
 } menuConvert;
 #define menuConvert_NUM_CHOICES 15
+
+typedef enum {
+    menuAlarmSevrNO_ALARM           /* NO_ALARM */,
+    menuAlarmSevrMINOR              /* MINOR */,
+    menuAlarmSevrMAJOR              /* MAJOR */,
+    menuAlarmSevrINVALID            /* INVALID */
+} menuAlarmSevr;
+#define menuAlarmSevr_NUM_CHOICES 4
+
+typedef enum {
+    menuScanPassive                 /* Passive */,
+    menuScanEvent                   /* Event */,
+    menuScanI_O_Intr                /* I/O Intr */,
+    menuScan10_second               /* 10 second */,
+    menuScan5_second                /* 5 second */,
+    menuScan2_second                /* 2 second */,
+    menuScan1_second                /* 1 second */,
+    menuScan_5_second               /* .5 second */,
+    menuScan_2_second               /* .2 second */,
+    menuScan_1_second               /* .1 second */
+} menuScan;
+#define menuScan_NUM_CHOICES 10
+
+typedef enum {
+    menuPost_OnChange               /* On Change */,
+    menuPost_Always                 /* Always */
+} menuPost;
+#define menuPost_NUM_CHOICES 2
+
+typedef enum {
+    menuOmslsupervisory             /* supervisory */,
+    menuOmslclosed_loop             /* closed_loop */
+} menuOmsl;
+#define menuOmsl_NUM_CHOICES 2
 
 typedef enum {
     menuAlarmStatNO_ALARM           /* NO_ALARM */,
@@ -98,31 +128,6 @@ typedef enum {
 #define menuAlarmStat_NUM_CHOICES 22
 
 typedef enum {
-    menuIvoaContinue_normally       /* Continue normally */,
-    menuIvoaDon_t_drive_outputs     /* Don't drive outputs */,
-    menuIvoaSet_output_to_IVOV      /* Set output to IVOV */
-} menuIvoa;
-#define menuIvoa_NUM_CHOICES 3
-
-typedef enum {
-    menuAlarmSevrNO_ALARM           /* NO_ALARM */,
-    menuAlarmSevrMINOR              /* MINOR */,
-    menuAlarmSevrMAJOR              /* MAJOR */,
-    menuAlarmSevrINVALID            /* INVALID */
-} menuAlarmSevr;
-#define menuAlarmSevr_NUM_CHOICES 4
-
-typedef enum {
-    menuPiniNO                      /* NO */,
-    menuPiniYES                     /* YES */,
-    menuPiniRUN                     /* RUN */,
-    menuPiniRUNNING                 /* RUNNING */,
-    menuPiniPAUSE                   /* PAUSE */,
-    menuPiniPAUSED                  /* PAUSED */
-} menuPini;
-#define menuPini_NUM_CHOICES 6
-
-typedef enum {
     menuSimmNO                      /* NO */,
     menuSimmYES                     /* YES */,
     menuSimmRAW                     /* RAW */
@@ -130,16 +135,11 @@ typedef enum {
 #define menuSimm_NUM_CHOICES 3
 
 typedef enum {
-    menuYesNoNO                     /* NO */,
-    menuYesNoYES                    /* YES */
-} menuYesNo;
-#define menuYesNo_NUM_CHOICES 2
-
-typedef enum {
-    menuPost_OnChange               /* On Change */,
-    menuPost_Always                 /* Always */
-} menuPost;
-#define menuPost_NUM_CHOICES 2
+    menuPriorityLOW                 /* LOW */,
+    menuPriorityMEDIUM              /* MEDIUM */,
+    menuPriorityHIGH                /* HIGH */
+} menuPriority;
+#define menuPriority_NUM_CHOICES 3
 
 typedef struct arrRecord {
     char                name[61];   /* Record Name */

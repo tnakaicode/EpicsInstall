@@ -10,6 +10,12 @@
 #include "epicsTime.h"
 
 typedef enum {
+    bufferingALG_FIFO               /* FIFO Buffer */,
+    bufferingALG_LIFO               /* LIFO Buffer */
+} bufferingALG;
+#define bufferingALG_NUM_CHOICES 2
+
+typedef enum {
     compressALG_N_to_1_Low_Value    /* N to 1 Low Value */,
     compressALG_N_to_1_High_Value   /* N to 1 High Value */,
     compressALG_N_to_1_Average      /* N to 1 Average */,
@@ -18,12 +24,6 @@ typedef enum {
     compressALG_N_to_1_Median       /* N to 1 Median */
 } compressALG;
 #define compressALG_NUM_CHOICES 6
-
-typedef enum {
-    bufferingALG_FIFO               /* FIFO Buffer */,
-    bufferingALG_LIFO               /* LIFO Buffer */
-} bufferingALG;
-#define bufferingALG_NUM_CHOICES 2
 
 typedef struct compressRecord {
     char                name[61];   /* Record Name */

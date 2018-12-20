@@ -1,0 +1,49 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/cantProceed.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/cvtFast.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbDefs.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbmf.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/ellLib.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsPrint.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsStdio.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsStdlib.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsString.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errlog.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/gpHash.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osiFileName.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/postfix.h
+dbStaticLib.obj : ../../../src/ioc/db/dbChannel.h
+dbStaticLib.obj : ../../../src/ioc/dbStatic/dbFldTypes.h
+dbStaticLib.obj : ../../../src/ioc/dbStatic/dbStaticLib.h
+dbStaticLib.obj : ../../../src/ioc/dbStatic/dbStaticPvt.h
+dbStaticLib.obj : ../../../src/ioc/dbStatic/devSup.h
+dbStaticLib.obj : ../../../src/ioc/dbStatic/drvSup.h
+dbStaticLib.obj : ../../../src/ioc/dbStatic/link.h
+dbStaticLib.obj : ../../../src/ioc/dbStatic/special.h
+dbStaticLib.obj : ../O.Common/dbCommon.h
+dbStaticLib.obj : ../../../src/ioc/db/dbJLink.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTempFile.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdStrtod.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+dbStaticLib.obj : ../../../src/ioc/db/dbAddr.h
+dbStaticLib.obj : ../../../src/ioc/db/db_field_log.h
+dbStaticLib.obj : ../../../src/ioc/db/dbEvent.h
+dbStaticLib.obj : ../../../src/ioc/dbStatic/dbBase.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsThread.h
+dbStaticLib.obj : ../../../src/ioc/dbStatic/recSup.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEvent.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdThread.h
+dbStaticLib.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdEvent.h
+
+

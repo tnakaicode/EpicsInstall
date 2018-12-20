@@ -1,0 +1,49 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errlog.h
+bhe.obj : ../iocinf.h
+bhe.obj : ../virtualCircuit.h
+bhe.obj : ../bhe.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/tsDLList.h
+bhe.obj : ../comBuf.h
+bhe.obj : ../caServerID.h
+bhe.obj : ../netiiu.h
+bhe.obj : ../comQueSend.h
+bhe.obj : ../comQueRecv.h
+bhe.obj : ../tcpRecvWatchdog.h
+bhe.obj : ../tcpSendWatchdog.h
+bhe.obj : ../hostNameCache.h
+bhe.obj : ../SearchDest.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/tsFreeList.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+bhe.obj : ../inetAddrID.h
+bhe.obj : ../caProto.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/osiWireFormat.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/osiSock.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/resourceLib.h
+bhe.obj : ../cacIO.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTimer.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/ipAddrToAsciiAsynchronous.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdWireFormat.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdSock.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/ellLib.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/tsSLList.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsString.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsThread.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEndian.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEvent.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdThread.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdWireConfig.h
+bhe.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdEvent.h
+
+

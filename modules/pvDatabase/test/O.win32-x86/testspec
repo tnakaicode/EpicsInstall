@@ -1,0 +1,3 @@
+OS-class: WIN32
+Target-arch: win32-x86
+Tests: testPlugin.t testPVCopy.t testPVRecord.t testExampleRecord.t testLocalProvider.t testPVAServer.t

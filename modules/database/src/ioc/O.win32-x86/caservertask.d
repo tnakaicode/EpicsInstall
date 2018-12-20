@@ -1,0 +1,49 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/addrList.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEvent.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsSignal.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsStdio.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errlog.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/freeList.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/osiPoolStatus.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/osiSock.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/taskwd.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/cantProceed.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsExport.h
+caservertask.obj : ../../../src/ioc/db/dbChannel.h
+caservertask.obj : ../O.Common/dbCommon.h
+caservertask.obj : ../../../src/ioc/db/dbEvent.h
+caservertask.obj : ../../../src/ioc/db/db_field_log.h
+caservertask.obj : ../../../src/ioc/db/dbServer.h
+caservertask.obj : ../../../src/ioc/rsrv/rsrv.h
+caservertask.obj : ../../../src/ioc/rsrv/server.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/envDefs.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdEvent.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTempFile.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdPoolStatus.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdSock.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/ellLib.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsThread.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/dbDefs.h
+caservertask.obj : ../../../src/ioc/db/dbAddr.h
+caservertask.obj : ../../../src/ioc/dbStatic/link.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/bucketLib.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/asLib.h
+caservertask.obj : ../../../src/ioc/db/dbNotify.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/caProto.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+caservertask.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdThread.h
+caservertask.obj : ../../../src/ioc/db/callback.h
+
+

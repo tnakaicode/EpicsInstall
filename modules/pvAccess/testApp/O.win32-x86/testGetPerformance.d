@@ -1,0 +1,53 @@
+# DO NOT EDIT: This file created by mkmf.pl
+
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/clientFactory.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvAccess.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsStdlib.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/epicsGetopt.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsThread.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTime.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/logger.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/lock.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/event.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/shareLib.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvData.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/createRequest.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/status.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/bitSet.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaVersion.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/destroyable.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/monitor.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdStrtod.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsTypes.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/errMdef.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEvent.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsMutex.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdThread.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdTime.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compilerDependencies.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/noDefaultMethods.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvType.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedPtr.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvIntrospect.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/typeCast.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/anyscalar.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/sharedVector.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/serialize.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/byteBuffer.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvaVersionNum.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/requester.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdEvent.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsAssert.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsGuard.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdMutex.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/compiler/msvc/compilerSpecific.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersion.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsConvert.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/templateMeta.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsEndian.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/epicsException.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/epicsVersion.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/pv/pvdVersionNum.h
+testGetPerformance.obj : C:/Users/TakuNakai/epics/base-7.0.2/include/os/WIN32/osdWireConfig.h
+
+
